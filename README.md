@@ -72,5 +72,5 @@ This script:
 ---
 
 # Acknowledgement
-[Dr.Aammar](https://example-url.com](https://github.com/AammarTufail)
+[Dr.Aammar](https://github.com/AammarTufail)
 
