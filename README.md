@@ -69,4 +69,8 @@ This script:
 * Bacterial transcriptomics
 * Differential gene expression
 * Stress / condition response studies
-# RNA-seq_READemption
+---
+
+# Acknowledgement
+[Dr.Aammar](https://example-url.com](https://github.com/AammarTufail)
+
